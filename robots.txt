@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ppkm3q.brotherstruckingcompany.com/sitemap.xml
